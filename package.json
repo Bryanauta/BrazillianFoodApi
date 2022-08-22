@@ -1,0 +1,18 @@
+{
+  "name": "brazillianfoodapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryanauta",
+  "license": "ISC",
+  "dependencies": {
+    "@types/sequelize": "^4.28.14",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.19",
+    "sequelize": "^6.21.3"
+  }
+}
